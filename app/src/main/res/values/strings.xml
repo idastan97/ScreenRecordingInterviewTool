@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ScreenRecordingSample</string>
+    <string name="warn">Запись начнется через</string>
+    <string name="left">Осталось</string>
+    <string name="next">Далее</string>
+
+</resources>
